@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015937348958",
+    "firebase_url": "https://chatapp-43d6b.firebaseio.com",
+    "project_id": "chatapp-43d6b",
+    "storage_bucket": "chatapp-43d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015937348958:android:edd55d8bb5c56fb105cbcf",
+        "android_client_info": {
+          "package_name": "com.AmmarKchatApp.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015937348958-uec256gl7a1gknqm71c1tbmp39j4rn45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFyDRIA-PBzZSGYLpnj9hBf46HpLjZCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015937348958-uec256gl7a1gknqm71c1tbmp39j4rn45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
